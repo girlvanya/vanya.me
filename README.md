@@ -1,2 +1,3 @@
 # vanya.me
-attempt to make a portfolio for someone else ofc(TT)
+## attempt to make a portfolio from someone else's ofc(TT)
+
