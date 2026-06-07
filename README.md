@@ -9,11 +9,11 @@
 
 ---
 
-## what’s this even
+### what’s this even?
 this is my portfolio website. yes. i finally made one. yes, it took forever. yes, bugs were sacrificed along the way. yes, claude ji did most of the coding while i admired at her. aahhhh(beauty with braiins*)
 
 ---
 
-## visit it
-🌐 [vanya.me](https://girlvanya.github.io/vanya.me/) — go on, click it, i meow you
+### visit it
+✨[vanya.me](https://girlvanya.github.io/vanya.me/) — click it, i meow you
 ![meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLD7Hu92bY0obsp0XoTIpDNt7zXVEMJaX45lbRPljmjg&s=10)
