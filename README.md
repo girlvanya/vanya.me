@@ -16,4 +16,4 @@ this is my portfolio website. yes. i finally made one. yes, it took forever. yes
 
 ## visit it
 🌐 [vanya.me](https://girlvanya.github.io/vanya.me/) — go on, click it, i meow you
-![meme](efcrhgjehgjfcrd)
+![meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLD7Hu92bY0obsp0XoTIpDNt7zXVEMJaX45lbRPljmjg&s=10)
