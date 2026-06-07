@@ -1,5 +1,5 @@
-# vanya.me
-# (T~T)
+## vanya.me
+## (T~T)
 
 ## finallyyy. at last!. my portfolio website
 
